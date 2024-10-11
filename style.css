@@ -1,0 +1,61 @@
+h1 {
+    color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+caption {
+    color: rgb(20, 241, 20);
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+th {
+    width: 100px;
+    background-color: #ff2;
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    text-align: left;
+    padding: 10px;
+}
+
+.modul1 {
+    background-color:#EECAD5;
+}
+
+.modul2 {
+    background-color: #D1E9F6;
+}
+
+.modul3 {
+    background-color: #FCDC94;
+}
+
+.modul4 {
+    background-color: #D1BB9E;
+}
+
+.modul5 {
+    background-color: #B3C8CF;
+}
+
+.modul6 {
+    background-color: #FFC6C6;
+}
+
+.modul7 {
+    background-color: #A5DD9B;
+}
+
+.modul8 {
+    background-color: #8E7AB5;
+}
